@@ -10,7 +10,7 @@
     padding: 0 40px;
 }
 
-#demo, #how, #work, #team {
+#demo, #how, #moneitze, #team {
     padding-top: 4rem;
 }
 
@@ -86,6 +86,17 @@
 .span_h2 {font-weight: 300;color: #CC0000;}
 
 .text_b{color: #CC0000;}
+
+.stat-fact {
+    font-size: 15px;
+    line-height: 45px;
+    font-weight: 400;
+}
+
+.span_stat_fact {
+    font-weight: 400;
+    color: #CC0000;
+}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
@@ -328,4 +339,5 @@ nav a.button-collapse {
 
 footer.page-footer {
     margin-top: 0px !important;
+    padding-bottom: 20px;
 }
